@@ -1,0 +1,49 @@
+body{
+  font-family:'lato', 'sans-serif';
+  margin:auto;
+  :0.2;
+}
+
+
+
+nav{
+  background-color:black;
+  padding:15px;
+}
+
+@media screen and (max-width: 600px){
+	a{
+		color: grey!important;
+	}
+}
+
+@media screen and (max-width: 600px){
+	nav{
+		background-color: white!important;
+	}
+}
+
+@media screen and (max-width: 1000px){
+	nav{
+		background-color: grey;
+	}
+}
+
+li{
+  padding-right:30px;
+}
+
+ul{
+  display:flex;
+  list-style-type: none;
+  justify-content:center;
+}
+
+a{
+  color:white;
+  text-decoration:none;
+}
+
+a:hover{
+  color:lightgrey;
+}
