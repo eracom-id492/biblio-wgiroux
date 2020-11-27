@@ -5,7 +5,7 @@
 https://codepen.io/William_Giroux/pen/abNGdEm
 
 ###MediaQuery
-
+Pas de copie
 
 ###Mise en Page
 
@@ -14,6 +14,7 @@ https://codepen.io/William_Giroux/pen/abNGdEm
 
 
 ###Webfont Google
-
+Pas de copie
 
 ###Webfont Fichier
+Pas de copie

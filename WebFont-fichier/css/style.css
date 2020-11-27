@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'SFProDisplay';
+    src: url('./font/SFProDisplay-Black.eot');
+    src: url('./font/SFProDisplay-Black.eot?#iefix') format('embedded-opentype'),
+        url('./font/SFProDisplay-Black.woff2') format('woff2'),
+        url('./font/SFProDisplay-Black.woff') format('woff'),
+        url('./font/SFProDisplay-Black.ttf') format('truetype'),
+        url('./font/SFProDisplay-Black.svg#SFProDisplay-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Khmer Sangam MN';
+    src: url('./font/KhmerSangamMN.eot');
+    src: url('./font/KhmerSangamMN.eot?#iefix') format('embedded-opentype'),
+        url('./font/KhmerSangamMN.woff2') format('woff2'),
+        url('./font/KhmerSangamMN.woff') format('woff'),
+        url('./font/KhmerSangamMN.ttf') format('truetype'),
+        url('./font/KhmerSangamMN.svg#KhmerSangamMN') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.titre{
+	font-weight: 900;
+}
+
+.principal{
+	font-family: 'Khmer Sangam MN', sans-serif;
+}
+
+.secondaire{
+	font-family: 'SFProDisplay', sans-serif;
+}
